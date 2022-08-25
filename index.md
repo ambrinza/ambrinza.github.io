@@ -17,6 +17,6 @@ in the data space for five years now, and here are all the titles I've held:
 
 I'm currently located in Charlotte, NC. I think we have one of the prettiest
 skylines of all the cities I've been to.
-<img src="../images/Screen Shot 2022-08-25 at 9.39.37 AM.png">
+<img src="/images/Screen Shot 2022-08-25 at 9.39.37 AM.png">
 
 My email is akbrinza@ncsu.edu for any questions you may have.
