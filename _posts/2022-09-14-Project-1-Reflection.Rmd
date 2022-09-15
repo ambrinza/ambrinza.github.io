@@ -1,0 +1,25 @@
+---
+title: "Reflections on Project 1"
+author: "Annie Brinza"
+date: '2022-09-14'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## *Purpose of Post*
+A blog post reflecting on my first project for ST558 (what was the purpose of the project, what did I learn, what I would do differently, etc.).
+
+## *Reflection*
+The completed version of my project 1 can be found [here]()
+
+### The purpose of the project
+The purpose of the project was to complete an end-to-end data manipulation and basic analysis of data pulled from the 2010 census. 
+
+### What I learned
+I learned how to write custom functions and apply them, simplifying the code needed to combine all of the data from many lines to just a few. I also learned how to write up an analysis in a narrative format, combining chunks of R code and plain text. We had to graph some of the results from the project, and so I also learned how to write a custom graphing function with custom inputs.
+
+### What I would do differently
+Next time, I would more carefully plan out my functions ahead of time. I had to go back and modify them several times as I realized I didn't have enough foresight for everything I would need to include. I would also be better about breaking my code into more narrative chunks for easier readability. 
