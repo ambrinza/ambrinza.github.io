@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 A blog post reflecting on my first project for ST558 (what was the purpose of the project, what did I learn, what I would do differently, etc.).
 
 ## *Reflection*
-The completed version of my project 1 can be found [here]()
+The completed version of my project 1 can be found [here](https://ambrinza.github.io/2022/09/12/Project1.html)
 
 ### The purpose of the project
 The purpose of the project was to complete an end-to-end data manipulation and basic analysis of data pulled from the 2010 census. 
